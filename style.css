@@ -1,0 +1,19 @@
+body {
+    background-color: #333;
+    box-shadow: 3px 3px 10em #222 inset;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 30% auto;
+    color: #aaa;
+    text-shadow: 2px 2px 3px #222;
+}
